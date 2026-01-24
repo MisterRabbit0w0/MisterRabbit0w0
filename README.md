@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm MisterRabbit0w0, an undergraduate in SJTU.
+
+#### 🌱 I’m currently learning
+- C/C++
+- python
+- NodeJS
+- LLM deploy
+
+#### 📫 How to reach me: 
+- Gmail: misterrabbit0w0@gmail.com
+- QQ: misterrabbit0w0@qq.com

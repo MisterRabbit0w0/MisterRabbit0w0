@@ -23,6 +23,12 @@ I'm MisterRabbit0w0, an undergraduate in SJTU.
 - NodeJS
 - LLM deploy
 
+#### 🔭 I’m currently interested in
+- Arknights
+- Counter-Strike 2
+- manosaba
+- Arknights: Endfield
+
 #### 📫 How to reach me: 
 - Gmail: misterrabbit0w0@gmail.com
 - QQ: misterrabbit0w0@qq.com

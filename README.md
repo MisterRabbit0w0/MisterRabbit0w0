@@ -1,34 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MisterRabbit0w0/MisterRabbit0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" alt="MisterRabbit0w0 — undergrad at SJTU, builds tools and watches the sky" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/profile.svg" alt="Currently learning, interested in, and how to reach me" width="100%" />
 
-I'm MisterRabbit0w0, an undergraduate in SJTU.
+<br/>
+<br/>
 
-#### 🌱 I’m currently learning
-- C/C++
-- python
-- NodeJS
-- LLM deploy
+<img src="https://github-readme-stats.vercel.app/api?username=MisterRabbit0w0&show_icons=true&hide_title=true&hide_rank=false&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&icon_color=e8a13a&border_color=1d2942&include_all_commits=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterRabbit0w0&layout=compact&langs_count=8&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&border_color=1d2942" alt="Top languages" height="170" />
 
-#### 🔭 I’m currently interested in
-- Arknights
-- Counter-Strike 2
-- manosaba
-- Arknights: Endfield
-
-#### 📫 How to reach me: 
-- Gmail: misterrabbit0w0@gmail.com
-- QQ: misterrabbit0w0@qq.com
+</div>

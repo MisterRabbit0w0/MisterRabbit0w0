@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MisterRabbit0w0&show_icons=true&hide_title=true&hide_rank=false&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&icon_color=e8a13a&border_color=1d2942&include_all_commits=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterRabbit0w0&layout=compact&langs_count=8&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&border_color=1d2942" alt="Top languages" height="170" />
+<img src="https://github-readme-stats-psi-gilt-58.vercel.app/api?username=MisterRabbit0w0&show_icons=true&hide_title=true&hide_rank=false&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&icon_color=e8a13a&border_color=1d2942&include_all_commits=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats-psi-gilt-58.vercel.app/api/top-langs/?username=MisterRabbit0w0&layout=compact&langs_count=8&bg_color=0a1020&title_color=e8a13a&text_color=9db0d0&border_color=1d2942" alt="Top languages" height="170" />
 
 </div>

@@ -1,1 +1,4 @@
 *.claude*
+.fontcache/
+__pycache__/
+assets/preview.html
